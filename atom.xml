@@ -30,4 +30,13 @@
 </content>
         <updated>2020-12-04T15:29:20.592Z</updated>
     </entry>
+    <entry>
+        <id>http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/</id>
+        <title>CTF之web部分</title>
+        <link rel="alternate" href="http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/"/>
+        <content type="html">&lt;p&gt;这是一篇关于 CTF web 安全 渗透的文章&lt;/p&gt;
+</content>
+        <category term="CTF" scheme="http://zhi-qiu.xyz/tags/CTF/" />
+        <updated>2020-11-15T10:29:07.000Z</updated>
+    </entry>
 </feed>
