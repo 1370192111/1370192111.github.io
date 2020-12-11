@@ -13,7 +13,7 @@
             "date_published": "2020-12-11T11:51:03.000Z",
             "content_html": "<blockquote>\n<p>前言<br />\n这是我本人的第一篇文章，主要讲述建站历程和个人建站感想！<br />\n<a id=\"more\"></a></p>\n</blockquote>\n<h2 id=\"建站历程\"><a class=\"anchor\" href=\"#建站历程\">#</a> 建站历程</h2>\n<blockquote>\n<p>本人喜欢用 hexo 本地生成静态网站，所以就在本地建立了仓库，主题选用的是 hexo shoka 主题，shoka 主题站点图片可以随时切换，支持多音乐播放，背景和代码块渲染效果好，且支持数学公式，流程图，练习题等多种功能。</p>\n</blockquote>\n<h2 id=\"个人目标\"><a class=\"anchor\" href=\"#个人目标\">#</a> 个人目标</h2>\n<h3 id=\"建站小目标\"><a class=\"anchor\" href=\"#建站小目标\">#</a> 建站小目标</h3>\n<ol>\n<li>写密码学基础和现代密码学文章</li>\n<li>写 c++ 面向对象程序设计文章</li>\n<li>写 python 程序设计与项目开发文章</li>\n<li>写 CTF web 安全 PWN MISC CRYPTO 方面的文章</li>\n<li>写自己所学的编程知识</li>\n</ol>\n<h3 id=\"建站大目标\"><a class=\"anchor\" href=\"#建站大目标\">#</a> 建站大目标</h3>\n<ol>\n<li>建站 10 年</li>\n</ol>\n<h2 id=\"个人留言\"><a class=\"anchor\" href=\"#个人留言\">#</a> 个人留言</h2>\n<p><strong>如果哪天我做成功了，感谢你的陪伴！</strong></p>\n",
             "tags": [
-                "个人感想",
+                "第一篇文章-个人感想",
                 "生活"
             ]
         }
