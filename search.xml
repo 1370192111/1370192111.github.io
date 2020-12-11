@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>个人感想</title>
+    <url>/2020/12/11/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</url>
+    <content><![CDATA[<blockquote>
+<p>前言<br />
+这是我本人的第一篇文章，主要讲述建站历程和个人建站感想！<br />
+<a id="more"></a></p>
+</blockquote>
+<h2 id="建站历程"><a class="anchor" href="#建站历程">#</a> 建站历程</h2>
+<blockquote>
+<p>本人喜欢用 hexo 本地生成静态网站，所以就在本地建立了仓库，主题选用的是 hexo shoka 主题，shoka 主题站点图片可以随时切换，支持多音乐播放，背景和代码块渲染效果好，且支持数学公式，流程图，练习题等多种功能。</p>
+</blockquote>
+<h2 id="个人目标"><a class="anchor" href="#个人目标">#</a> 个人目标</h2>
+<h3 id="建站小目标"><a class="anchor" href="#建站小目标">#</a> 建站小目标</h3>
+<ol>
+<li>写密码学基础和现代密码学文章</li>
+<li>写 c++ 面向对象程序设计文章</li>
+<li>写 python 程序设计与项目开发文章</li>
+<li>写 CTF web 安全 PWN MISC CRYPTO 方面的文章</li>
+<li>写自己所学的编程知识</li>
+</ol>
+<h3 id="建站大目标"><a class="anchor" href="#建站大目标">#</a> 建站大目标</h3>
+<ol>
+<li>建站 10 年</li>
+</ol>
+<h2 id="个人留言"><a class="anchor" href="#个人留言">#</a> 个人留言</h2>
+<p><strong>如果哪天我做成功了，感谢你的陪伴！</strong></p>
+]]></content>
+      <categories>
+        <category>个人感想</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+</search>
