@@ -7,21 +7,14 @@
     "home_page_url": "http://zhi-qiu.xyz",
     "items": [
         {
-            "id": "http://zhi-qiu.xyz/2020/12/04/hello-world/",
-            "url": "http://zhi-qiu.xyz/2020/12/04/hello-world/",
-            "title": "Hello World",
-            "date_published": "2020-12-04T15:29:20.592Z",
-            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"anchor\" href=\"#run-server\">#</a> Run server</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<p><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure></p>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
-            "tags": []
-        },
-        {
-            "id": "http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/",
-            "url": "http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/",
-            "title": "CTF之web部分",
-            "date_published": "2020-11-15T10:29:07.000Z",
-            "content_html": "<p>这是一篇关于 CTF web 安全 渗透的文章</p>\n",
+            "id": "http://zhi-qiu.xyz/2020/12/11/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/",
+            "url": "http://zhi-qiu.xyz/2020/12/11/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/",
+            "title": "个人感想",
+            "date_published": "2020-12-11T11:51:03.000Z",
+            "content_html": "<blockquote>\n<p>前言<br />\n这是我本人的第一篇文章，主要讲述建站历程和个人建站感想！<br />\n<a id=\"more\"></a></p>\n</blockquote>\n<h2 id=\"建站历程\"><a class=\"anchor\" href=\"#建站历程\">#</a> 建站历程</h2>\n<blockquote>\n<p>本人喜欢用 hexo 本地生成静态网站，所以就在本地建立了仓库，主题选用的是 hexo shoka 主题，shoka 主题站点图片可以随时切换，支持多音乐播放，背景和代码块渲染效果好，且支持数学公式，流程图，练习题等多种功能。</p>\n</blockquote>\n<h2 id=\"个人目标\"><a class=\"anchor\" href=\"#个人目标\">#</a> 个人目标</h2>\n<h3 id=\"建站小目标\"><a class=\"anchor\" href=\"#建站小目标\">#</a> 建站小目标</h3>\n<ol>\n<li>写密码学基础和现代密码学文章</li>\n<li>写 c++ 面向对象程序设计文章</li>\n<li>写 python 程序设计与项目开发文章</li>\n<li>写 CTF web 安全 PWN MISC CRYPTO 方面的文章</li>\n<li>写自己所学的编程知识</li>\n</ol>\n<h3 id=\"建站大目标\"><a class=\"anchor\" href=\"#建站大目标\">#</a> 建站大目标</h3>\n<ol>\n<li>建站 10 年</li>\n</ol>\n<h2 id=\"个人留言\"><a class=\"anchor\" href=\"#个人留言\">#</a> 个人留言</h2>\n<p><strong>如果哪天我做成功了，感谢你的陪伴！</strong></p>\n",
             "tags": [
-                "CTF"
+                "个人感想",
+                "生活"
             ]
         }
     ]

@@ -10,36 +10,39 @@
         </author>
         <description>一个萌新的编程笔记，如果哪天我成功了，相信你也可以！</description>
         <language>zh-CN</language>
-        <pubDate>Fri, 04 Dec 2020 23:29:20 +0800</pubDate>
-        <lastBuildDate>Fri, 04 Dec 2020 23:29:20 +0800</lastBuildDate>
+        <pubDate>Fri, 11 Dec 2020 19:51:03 +0800</pubDate>
+        <lastBuildDate>Fri, 11 Dec 2020 19:51:03 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://zhi-qiu.xyz/2020/12/04/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://zhi-qiu.xyz/2020/12/04/hello-world/</link>
-            <pubDate>Fri, 04 Dec 2020 23:29:20 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;p&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/</guid>
-            <title>CTF之web部分</title>
-            <link>http://zhi-qiu.xyz/2020/11/15/CTF%E4%B9%8Bweb%E9%83%A8%E5%88%86/</link>
-            <category term="CTF" scheme="http://zhi-qiu.xyz/tags/CTF/" />
-            <pubDate>Sun, 15 Nov 2020 18:29:07 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;这是一篇关于 CTF web 安全 渗透的文章&lt;/p&gt;
+            <guid isPermalink="true">http://zhi-qiu.xyz/2020/12/11/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</guid>
+            <title>个人感想</title>
+            <link>http://zhi-qiu.xyz/2020/12/11/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/</link>
+            <category term="个人感想" scheme="http://zhi-qiu.xyz/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/" />
+            <category term="生活" scheme="http://zhi-qiu.xyz/tags/%E7%94%9F%E6%B4%BB/" />
+            <pubDate>Fri, 11 Dec 2020 19:51:03 +0800</pubDate>
+            <description><![CDATA[ &lt;blockquote&gt;
+&lt;p&gt;前言&lt;br /&gt;
+这是我本人的第一篇文章，主要讲述建站历程和个人建站感想！&lt;br /&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;建站历程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建站历程&#34;&gt;#&lt;/a&gt; 建站历程&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本人喜欢用 hexo 本地生成静态网站，所以就在本地建立了仓库，主题选用的是 hexo shoka 主题，shoka 主题站点图片可以随时切换，支持多音乐播放，背景和代码块渲染效果好，且支持数学公式，流程图，练习题等多种功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;个人目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人目标&#34;&gt;#&lt;/a&gt; 个人目标&lt;/h2&gt;
+&lt;h3 id=&#34;建站小目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建站小目标&#34;&gt;#&lt;/a&gt; 建站小目标&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;写密码学基础和现代密码学文章&lt;/li&gt;
+&lt;li&gt;写 c++ 面向对象程序设计文章&lt;/li&gt;
+&lt;li&gt;写 python 程序设计与项目开发文章&lt;/li&gt;
+&lt;li&gt;写 CTF web 安全 PWN MISC CRYPTO 方面的文章&lt;/li&gt;
+&lt;li&gt;写自己所学的编程知识&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;建站大目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#建站大目标&#34;&gt;#&lt;/a&gt; 建站大目标&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;建站 10 年&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;个人留言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#个人留言&#34;&gt;#&lt;/a&gt; 个人留言&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;如果哪天我做成功了，感谢你的陪伴！&lt;/strong&gt;&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
